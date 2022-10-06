@@ -1,0 +1,9 @@
+E:\2AMS\DS\Revisao\Revisao\Revisao\bin\Debug\Revisao.exe.config
+E:\2AMS\DS\Revisao\Revisao\Revisao\bin\Debug\Revisao.exe
+E:\2AMS\DS\Revisao\Revisao\Revisao\bin\Debug\Revisao.pdb
+E:\2AMS\DS\Revisao\Revisao\Revisao\obj\Debug\Votação.csprojResolveAssemblyReference.cache
+E:\2AMS\DS\Revisao\Revisao\Revisao\obj\Debug\Revisao.Form1.resources
+E:\2AMS\DS\Revisao\Revisao\Revisao\obj\Debug\Revisao.Properties.Resources.resources
+E:\2AMS\DS\Revisao\Revisao\Revisao\obj\Debug\Votação.csproj.GenerateResource.Cache
+E:\2AMS\DS\Revisao\Revisao\Revisao\obj\Debug\Revisao.exe
+E:\2AMS\DS\Revisao\Revisao\Revisao\obj\Debug\Revisao.pdb
